@@ -3,17 +3,17 @@
 ## LAB KVM - VLAN:
 
 #### I. Mô Hình LAB :
-   <img src="http://prntscr.com/4k5gf6">
+   <img src="http://i.imgur.com/ldl0bbU.png">
 
 #### II. Thông tin thiết bị:
  
- 1. Máy HOST1:
+1. Máy HOST1:
      - OS: UBUNTU 12.04 DESKTOP
      - HDD: 40GB
      - RAM :1GB
      - CPU : 4 , có tích VT-X
 	 
- 2.Máy 	HOST2: 
+2.Máy HOST2: 
      - OS: UBUNTU 12.04 DESKTOP
      - HDD: 40GB
      - RAM :1GB
