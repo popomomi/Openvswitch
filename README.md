@@ -85,6 +85,7 @@ dns-nameservers 8.8.8.8
 ```
   kvm -m 512 -net nic,macaddr=12:42:52:CC:CC:15 -net tap  cirros-0.3.2-x86_64-disk.img
 ```
+<img src="http://i.imgur.com/ef5r1Fc.png">
 - nếu cài đặt trên UBUNTU SERVER chạy lênh :
 ```
  kvm -m 512 -net nic,macaddr=12:42:52:CC:CC:15 -net tap  cirros-0.3.2-x86_64-disk.img -nographic
