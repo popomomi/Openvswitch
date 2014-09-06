@@ -8,17 +8,21 @@
 #### II. Thông tin thiết bị:
  
 1. Máy HOST1:
-     - OS: UBUNTU 12.04 DESKTOP
-     - HDD: 40GB
-     - RAM :1GB
+
+     - OS:   UBUNTU 12.04 DESKTOP
+     - HDD:  40GB
+     - RAM : 1GB
      - CPU : 4 , có tích VT-X
 	 
 2.Máy HOST2: 
-     - OS: UBUNTU 12.04 DESKTOP
-     - HDD: 40GB
-     - RAM :1GB
-     - CPU : 4, có tích VT-X
+
+     - OS:   UBUNTU 12.04 DESKTOP
+     - HDD:  40GB
+     - RAM : 1GB
+     - CPU :  4, có tích VT-X
+     
 #### III.Cài Đặt và cấu hình :
+
 ##### Cài đặt gói :
 1. Cấu hình kiểm tra KVM :
   -  Cài đặt gói:
